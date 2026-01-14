@@ -1,0 +1,12 @@
+{
+  "name": "corvandil-codex",
+  "version": "1.0.0",
+  "description": "A lore and world reference website for a tabletop RPG setting",
+  "private": true,
+  "scripts": {
+    "start": "http-server"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "circle": "The Verdant Circle",
+  "deities": [
+    {
+      "id": "memzoal",
+      "name": "Memzoal",
+      "title": "The Rootborn Warden and Verdant Breath of Becoming",
+      "alignment": "Lawful Neutral",
+      "domains": ["Nature"],
+      "symbol": "The Ouroborus",
+      "portfolio": ["Natural Balance", "Creation"],
+      "tenet": "From decay sprouts life; the end is the beginning.",
+      "relations": [
+        "Creation Deity",
+        "Father to Mekah",
+        "Father to Mikki",
+        "Father to Mokor",
+        "Father to Metaris",
+        "Father to Myrlee"
+      ],
+      "depiction": "A massive serpent biting its own tail, scales etched with forests, oceans, and mountains.",
+      "worship": "His followers meditate in silence, studying life’s cycles. His priests and druids act as keepers of balance, stepping in only when nature falters."
+    },
+    
+    {
+      "id": "memzoal",
+      "name": "Memzoal",
+      "title": "The Rootborn Warden and Verdant Breath of Becoming",
+      "alignment": "Lawful Neutral",
+      "domains": ["Nature"],
+      "symbol": "The Ouroborus",
+      "portfolio": ["Natural Balance", "Creation"],
+      "tenet": "From decay sprouts life; the end is the beginning.",
+      "relations": [
+        "Creation Deity",
+        "Father to Mekah",
+        "Father to Mikki",
+        "Father to Mokor",
+        "Father to Metaris",
+        "Father to Myrlee"
+      ],
+      "depiction": "A massive serpent biting its own tail, scales etched with forests, oceans, and mountains.",
+      "worship": "His followers meditate in silence, studying life’s cycles. His priests and druids act as keepers of balance, stepping in only when nature falters."
+    }
+  ]
+}
