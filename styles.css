@@ -13,9 +13,12 @@ body {
   color: white;
 }
 
-.nav-title {
+.nav-title,
+.nav-title:visited {
   font-size: 20px;
   font-weight: bold;
+  text-decoration: none;
+  color: inherit;
 }
 
 .nav-links a {
